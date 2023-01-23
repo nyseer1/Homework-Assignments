@@ -1,0 +1,9 @@
+Pride and Prejudice,Jane Austen,3.7
+Heart of Darkness,Joseph Conrad,3.6
+The Brothers Karamazov,Fyodor Dostoyevsky,4.9
+Ulysses                        James Joyce               4.6
+Beloved                        Toni Morrison             4.5
+Nineteen Eighty Four           George Orwell             4.2
+In Search of Lost Time         Marcel Proust             3.8
+War and Peace                  Leo Tolstoy               4.3
+To the Lighthouse              Virginia Woolf            4.0
